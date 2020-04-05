@@ -1,0 +1,23 @@
+New methods in String class
+	indent
+	transform
+	describeConstable
+	
+Compact Number Format
+	
+Teeing Collector
+
+Files misatch
+
+Preview Features: features that are fully specified, fully implemented and yet impermanent.
+While compiling & running use --enable-preview flag.
+New Switch Expression
+
+JEP 230: Microbenchmark Suite. Micro-benchmarking with JMH (Java Micro-benchmarking Harness)
+
+G1GC Improvements:
+JEP 344: Abortable Mixed Collections for G1
+JEP 346: Promptly return unused committed memory from G1
+New GC: Shenandoah (Experimental)
+			Support large heaps & keep low pause times.
+			Brooks pointers. Pointer for pointers if the object has been moved to a different loaction
